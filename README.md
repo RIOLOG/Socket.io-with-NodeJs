@@ -34,7 +34,7 @@ This project is a real-time chat application that enables users to communicate i
 1. Clone the repository:
 
    ```bash
-  https://github.com/RIOLOG/Socket.io-with-NodeJs.git
+  ``https://github.com/RIOLOG/Socket.io-with-NodeJs.git``
    ```
 
 2. Install dependencies:
